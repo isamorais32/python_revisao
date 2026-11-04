@@ -4,3 +4,5 @@ while True:
         break 
     
 print("terminou")
+
+# tarefa que eu fiz 

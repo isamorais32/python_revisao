@@ -4,3 +4,5 @@ for idade in idades:
     if idade >=18:
         list_maior.append(idade)
 print (list_maior)
+
+  # tarefa que eu fiz 

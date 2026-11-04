@@ -4,4 +4,4 @@ for nota in notas:
     if nota >=6:
         list_ap.append (nota)
 print (list_ap)        
-        
+        # tarefa do professor 

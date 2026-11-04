@@ -4,3 +4,4 @@ while cont<10:
     if list [cont] % 2 ==0 :
         print ("par", list[cont])
     cont += 1
+  # tarefa que eu fiz 
